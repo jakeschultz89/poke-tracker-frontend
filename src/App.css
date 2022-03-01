@@ -1,3 +1,13 @@
+nav {
+    background-color: #e4000f;
+    color: white;
+}
+.navbar-brand {
+    color: white;
+}
+.nav-link {
+    color: white;
+}
 html {
   position: relative;
   min-height: 100%;
